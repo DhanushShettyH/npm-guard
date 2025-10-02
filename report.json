@@ -1,0 +1,334 @@
+{
+  "findings": [
+    {
+      "name": "chalk",
+      "version": "5.6.2",
+      "lastPublishDays": 24,
+      "weeklyDownloads": 330441091,
+      "audit": {
+        "total": 0,
+        "critical": 0,
+        "high": 0,
+        "moderate": 0,
+        "low": 0
+      },
+      "typosquat": {
+        "risk": "none"
+      },
+      "cooldown": {
+        "recent": false,
+        "publishedHoursAgo": 578
+      },
+      "score": 100,
+      "advice": []
+    },
+    {
+      "name": "commander",
+      "version": "12.1.0",
+      "lastPublishDays": 502,
+      "weeklyDownloads": 224938199,
+      "audit": {
+        "total": 0,
+        "critical": 0,
+        "high": 0,
+        "moderate": 0,
+        "low": 0
+      },
+      "typosquat": {
+        "risk": "none"
+      },
+      "cooldown": {
+        "recent": false,
+        "publishedHoursAgo": 12053
+      },
+      "score": 95,
+      "advice": []
+    },
+    {
+      "name": "leven",
+      "version": "4.1.0",
+      "lastPublishDays": 21,
+      "weeklyDownloads": 36696182,
+      "audit": {
+        "total": 0,
+        "critical": 0,
+        "high": 0,
+        "moderate": 0,
+        "low": 0
+      },
+      "typosquat": {
+        "risk": "none"
+      },
+      "cooldown": {
+        "recent": false,
+        "publishedHoursAgo": 508
+      },
+      "score": 100,
+      "advice": []
+    },
+    {
+      "name": "ora",
+      "version": "8.2.0",
+      "lastPublishDays": 242,
+      "weeklyDownloads": 40590468,
+      "audit": {
+        "total": 0,
+        "critical": 0,
+        "high": 0,
+        "moderate": 0,
+        "low": 0
+      },
+      "typosquat": {
+        "risk": "medium",
+        "reason": "Similar to cors"
+      },
+      "cooldown": {
+        "recent": false,
+        "publishedHoursAgo": 5817
+      },
+      "score": 90,
+      "advice": [
+        "Typosquat risk: Similar to cors"
+      ]
+    },
+    {
+      "name": "semver",
+      "version": "7.7.2",
+      "lastPublishDays": 143,
+      "weeklyDownloads": 437030203,
+      "audit": {
+        "total": 0,
+        "critical": 0,
+        "high": 0,
+        "moderate": 0,
+        "low": 0
+      },
+      "typosquat": {
+        "risk": "none"
+      },
+      "cooldown": {
+        "recent": false,
+        "publishedHoursAgo": 3432
+      },
+      "score": 100,
+      "advice": []
+    },
+    {
+      "name": "undici",
+      "version": "6.21.3",
+      "lastPublishDays": 142,
+      "weeklyDownloads": 26170441,
+      "audit": {
+        "total": 0,
+        "critical": 0,
+        "high": 0,
+        "moderate": 0,
+        "low": 0
+      },
+      "typosquat": {
+        "risk": "none"
+      },
+      "cooldown": {
+        "recent": false,
+        "publishedHoursAgo": 3417
+      },
+      "score": 100,
+      "advice": []
+    },
+    {
+      "name": "@types/node",
+      "version": "22.18.8",
+      "lastPublishDays": 1,
+      "weeklyDownloads": 167073357,
+      "audit": {
+        "total": 0,
+        "critical": 0,
+        "high": 0,
+        "moderate": 0,
+        "low": 0
+      },
+      "typosquat": {
+        "risk": "none"
+      },
+      "cooldown": {
+        "recent": true,
+        "publishedHoursAgo": 41
+      },
+      "score": 95,
+      "advice": [
+        "Recently published (<72h ago). Consider waiting before adoption."
+      ]
+    },
+    {
+      "name": "@typescript-eslint/eslint-plugin",
+      "version": "8.45.0",
+      "lastPublishDays": 3,
+      "weeklyDownloads": 51512400,
+      "audit": {
+        "total": 0,
+        "critical": 0,
+        "high": 0,
+        "moderate": 0,
+        "low": 0
+      },
+      "typosquat": {
+        "risk": "none"
+      },
+      "cooldown": {
+        "recent": false,
+        "publishedHoursAgo": 72
+      },
+      "score": 100,
+      "advice": []
+    },
+    {
+      "name": "@typescript-eslint/parser",
+      "version": "8.45.0",
+      "lastPublishDays": 3,
+      "weeklyDownloads": 54573169,
+      "audit": {
+        "total": 0,
+        "critical": 0,
+        "high": 0,
+        "moderate": 0,
+        "low": 0
+      },
+      "typosquat": {
+        "risk": "none"
+      },
+      "cooldown": {
+        "recent": false,
+        "publishedHoursAgo": 72
+      },
+      "score": 100,
+      "advice": []
+    },
+    {
+      "name": "esbuild",
+      "version": "0.23.1",
+      "lastPublishDays": 411,
+      "weeklyDownloads": 67495557,
+      "audit": {
+        "total": 0,
+        "critical": 0,
+        "high": 0,
+        "moderate": 0,
+        "low": 0
+      },
+      "typosquat": {
+        "risk": "none"
+      },
+      "cooldown": {
+        "recent": false,
+        "publishedHoursAgo": 9883
+      },
+      "score": 95,
+      "advice": []
+    },
+    {
+      "name": "eslint",
+      "version": "9.36.0",
+      "lastPublishDays": 13,
+      "weeklyDownloads": 62656947,
+      "audit": {
+        "total": 0,
+        "critical": 0,
+        "high": 0,
+        "moderate": 0,
+        "low": 0
+      },
+      "typosquat": {
+        "risk": "none"
+      },
+      "cooldown": {
+        "recent": false,
+        "publishedHoursAgo": 314
+      },
+      "score": 100,
+      "advice": []
+    },
+    {
+      "name": "ts-node",
+      "version": "10.9.2",
+      "lastPublishDays": 664,
+      "weeklyDownloads": 32311166,
+      "audit": {
+        "total": 0,
+        "critical": 0,
+        "high": 0,
+        "moderate": 0,
+        "low": 0
+      },
+      "typosquat": {
+        "risk": "none"
+      },
+      "cooldown": {
+        "recent": false,
+        "publishedHoursAgo": 15941
+      },
+      "score": 95,
+      "advice": []
+    },
+    {
+      "name": "typescript",
+      "version": "5.9.3",
+      "lastPublishDays": 1,
+      "weeklyDownloads": 94696233,
+      "audit": {
+        "total": 0,
+        "critical": 0,
+        "high": 0,
+        "moderate": 0,
+        "low": 0
+      },
+      "typosquat": {
+        "risk": "none"
+      },
+      "cooldown": {
+        "recent": true,
+        "publishedHoursAgo": 43
+      },
+      "score": 95,
+      "advice": [
+        "Recently published (<72h ago). Consider waiting before adoption."
+      ]
+    },
+    {
+      "name": "vitest",
+      "version": "2.1.9",
+      "weeklyDownloads": 16578860,
+      "audit": {
+        "total": 0,
+        "critical": 0,
+        "high": 0,
+        "moderate": 0,
+        "low": 0
+      },
+      "typosquat": {
+        "risk": "medium",
+        "reason": "Similar to vite"
+      },
+      "cooldown": {
+        "recent": false
+      },
+      "score": 90,
+      "advice": [
+        "Typosquat risk: Similar to vite"
+      ]
+    }
+  ],
+  "totalScore": 97,
+  "summary": {
+    "deprecated": 0,
+    "typosquatRisks": 2,
+    "cooldownRecent": 2,
+    "vulns": {
+      "total": 5,
+      "critical": 0,
+      "high": 0,
+      "moderate": 5,
+      "low": 0
+    }
+  },
+  "errors": []
+}
