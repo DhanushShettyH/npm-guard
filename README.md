@@ -10,17 +10,17 @@
 
 Modern npm projects face increasing supply chain risks. While tools like `npm audit` check for known vulnerabilities, they miss critical signals like:
 
-- 📦 **Deprecated packages** that may have security issues
-- 🎯 **Typosquatting risks** from packages with similar names
-- ⏰ **Fresh publishes** that haven't been vetted (<72h cooldown)
-- 📊 **Maintenance signals** like stale packages or low popularity
-- 🔍 **Holistic health scoring** across all risk factors
+- **Deprecated packages** that may have security issues
+- **Typosquatting risks** from packages with similar names
+- **Fresh publishes** that haven't been vetted (<72h cooldown)
+- **Maintenance signals** like stale packages or low popularity
+- **Holistic health scoring** across all risk factors
 
 npm-guard provides a unified command to check all these risks at once.
 
 ## Features
 
-✅ **Comprehensive Scanning**
+**Comprehensive Scanning**
 
 - Deprecated package detection with messages
 - Typosquatting and case-variant impersonation checks
@@ -28,14 +28,14 @@ npm-guard provides a unified command to check all these risks at once.
 - Maintenance signals (last publish, downloads, staleness)
 - npm audit vulnerability integration
 
-✅ **Actionable Output**
+**Actionable Output**
 
 - Health score (0-100) for your entire project
 - Per-package scoring and specific remediation advice
 - Human-friendly console output or JSON for CI/CD
 - Exit codes for CI gating
 
-✅ **Fast & Lightweight**
+**Fast & Lightweight**
 
 - Zero runtime dependencies for scanning
 - Parallel fetching for speed
@@ -77,7 +77,7 @@ Overall Health Score: 82/100
 
 ⚠ Deprecated packages: 1
 ⚠ Typosquat risks: 1
-⏰ Recently published: 2
+⚠ Recently published: 2
 
 Vulnerabilities:
   🔴 Critical: 0
@@ -91,8 +91,8 @@ Package Details:
 request@2.88.2
   Score: 45/100
   ⚠ DEPRECATED: request has been deprecated
-  📊 Weekly downloads: 25,341,234
-  📅 Last published: 4 years ago
+    Weekly downloads: 25,341,234
+    Last published: 4 years ago
   Recommendations:
     • Deprecated: request has been deprecated
     • Not updated in 4 years. May be unmaintained.
